@@ -3,6 +3,7 @@ Solution to all the Coding Exercise Problems from Python for Everybody by Charle
 
 ## Getting Started 
 All the codes are categorized according to their respective chapters & serial numbers
+
 **Note :-** *Code Snipets are just for reference & there can be multiple approach to solution*
 
 ### Prerequisite
